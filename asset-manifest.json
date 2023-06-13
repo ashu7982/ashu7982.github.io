@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.99870730.css",
-    "main.js": "/static/js/main.1b9d5c6c.js",
+    "main.js": "/static/js/main.e9f691b6.js",
     "static/js/787.586b53ef.chunk.js": "/static/js/787.586b53ef.chunk.js",
     "static/media/Ashutosh-Dubey-Resume (2).pdf": "/static/media/Ashutosh-Dubey-Resume (2).11ae633c5bd5745ede75.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.99870730.css.map": "/static/css/main.99870730.css.map",
-    "main.1b9d5c6c.js.map": "/static/js/main.1b9d5c6c.js.map",
+    "main.e9f691b6.js.map": "/static/js/main.e9f691b6.js.map",
     "787.586b53ef.chunk.js.map": "/static/js/787.586b53ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99870730.css",
-    "static/js/main.1b9d5c6c.js"
+    "static/js/main.e9f691b6.js"
   ]
 }
